@@ -11,4 +11,5 @@ It integrates tools like **strings**, **Volatility**, and **Exiftool** to extrac
 
 ## Usage
 ```bash
-bash greper.sh /path/to/memory_or_disk_image
+bash greper.sh
+
